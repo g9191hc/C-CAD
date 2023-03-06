@@ -1,0 +1,6 @@
+E:\고현철\C#\cad\CadPractice\CadPractice\bin\x64\Debug\CadPractice.dll
+E:\고현철\C#\cad\CadPractice\CadPractice\bin\x64\Debug\CadPractice.pdb
+E:\고현철\C#\cad\CadPractice\CadPractice\obj\x64\Debug\CadPractice.csproj.AssemblyReference.cache
+E:\고현철\C#\cad\CadPractice\CadPractice\obj\x64\Debug\CadPractice.csproj.CoreCompileInputs.cache
+E:\고현철\C#\cad\CadPractice\CadPractice\obj\x64\Debug\CadPractice.dll
+E:\고현철\C#\cad\CadPractice\CadPractice\obj\x64\Debug\CadPractice.pdb
